@@ -1,0 +1,2 @@
+# tailwind-snippets
+tailwind project
